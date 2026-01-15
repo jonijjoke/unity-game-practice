@@ -24,3 +24,5 @@ Tämä Unityllä toteutettu pieni 3D- seikkailupeli, jossa täytyy löytää tie
 
 - Animaatiot: Vain karhuilla on "idle" animaatio. Hahmon liike on liukuvaa.
 - Pelimaailman viimeistely.
+
+  <img width="2556" height="1325" alt="Näyttökuva 2026-01-15 133641" src="https://github.com/user-attachments/assets/64c27e84-7708-4c54-8162-5703d1e41b98" />
