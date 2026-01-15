@@ -20,7 +20,7 @@ Tämä Unityllä toteutettu pieni 3D- seikkailupeli, jossa täytyy löytää tie
 - Avaa projekti Unity hubin kautta
 - Paina play
 
-    Puutteet ja kehityskohteet
+Puutteet ja kehityskohteet
 
 - Animaatiot: Vain karhuilla on "idle" animaatio. Hahmon liike on liukuvaa.
 - Pelimaailman viimeistely.
