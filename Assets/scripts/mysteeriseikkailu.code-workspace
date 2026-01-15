@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../Olio-ohjelmointi/Csharp/Harjoitus_1_Joni_Jokela/obj"
+		},
+		{
+			"path": "../../../../../Olio-ohjelmointi/Csharp/Harjoitus_1_Joni_Jokela/bin"
+		},
+		{
+			"path": "../../../../../Olio-ohjelmointi/Csharp/tunti5"
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "*.asset": "yaml",
+            "*.meta": "yaml",
+            "*.prefab": "yaml",
+            "*.unity": "yaml"
+        },
+        "dotnet.defaultSolution": "mysteeriseikkailu.sln"
+    }
+}
